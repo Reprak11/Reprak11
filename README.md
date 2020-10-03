@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Epilepsy EEG signal classification**
 
-- 🌱 I’m currently learning **Web Development, Data Structure and microcontrollers/microcomputers**
+- 🌱 I’m currently learning **Web Development, Machine Learning and microcontrollers/microcomputers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Reprak11](https://github.com/Reprak11)
 
