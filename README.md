@@ -10,7 +10,7 @@ Passionate about science and technology, specifically the branches of programmin
 - 🌱 I’m currently learning Software Development, Web Development and Machine Learning.  
   
 
-- ❓ Ask me about anything related to Machine Learning, Web Development and Electronics Topics  
+- ❓ Ask me about anything related to Programing and Electronics Topics  
   
 
 - ⚡ Fun fact: I love to learn and code!!  
